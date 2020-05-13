@@ -1,0 +1,26 @@
+body { 
+    background-image:     url('https://i.pinimg.com/originals/d1/79/59/d179596312e355517901f6b67da74471.gif');
+    background-size: auto 100vh;
+    font-family: Arial;
+    height: 100vh; } 
+  
+  .menu {
+    background-color: #4169E1; }
+  
+  .site-title, .site-subtitle { 
+    color: white; 
+    text-align: center; }
+    
+  a {
+    text-decoration: none;
+    color: white; }
+  
+  a:hover {
+    text-decoration: underline; }
+  
+  li {
+    color: white; }
+  
+  .menu ul {
+    display: flex;
+    justify-content: space-around; }
